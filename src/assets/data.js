@@ -14,24 +14,24 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
         },
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "jaikishan",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
       ],
       isTrashed: false,
@@ -58,17 +58,17 @@ export const summary = {
       team: [
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav Pahuja",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
         {
           _id: "65c3176a0fd860f958baa099",
-          name: "Emily Wilson",
+          name: "eshaan khurana",
           title: "Data Analyst",
           role: "Analyst",
-          email: "emily.wilson@example.com",
+          email: "eshaan.khurana@gmail.com",
         },
       ],
       isTrashed: false,
@@ -121,7 +121,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
@@ -135,10 +135,10 @@ export const summary = {
         },
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "jaikishan",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
       ],
       isTrashed: false,
@@ -203,17 +203,17 @@ export const summary = {
       team: [
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
         {
           _id: "65c3176a0fd860f958baa099",
-          name: "Emily Wilson",
+          name: "eshaan khurana",
           title: "Data Analyst",
           role: "Analyst",
-          email: "emily.wilson@example.com",
+          email: "eshaan.khurana@gmail.com",
         },
       ],
       isTrashed: false,
@@ -254,24 +254,24 @@ export const summary = {
       team: [
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "jaikishan",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
         },
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
       ],
       isTrashed: false,
@@ -306,7 +306,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
@@ -320,10 +320,10 @@ export const summary = {
         },
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "xyz",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
       ],
       isTrashed: false,
@@ -356,17 +356,17 @@ export const summary = {
       team: [
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
         {
           _id: "65c3176a0fd860f958baa099",
-          name: "Emily Wilson",
+          name: "eshaan khurana",
           title: "Data Analyst",
           role: "Analyst",
-          email: "emily.wilson@example.com",
+          email: "eshaan.khurana@gmail.com",
         },
       ],
       isTrashed: false,
@@ -393,7 +393,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
@@ -407,10 +407,10 @@ export const summary = {
         },
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "jaikishan",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
       ],
       isTrashed: false,
@@ -443,17 +443,17 @@ export const summary = {
       team: [
         {
           _id: "65c317360fd860f958baa08e",
-          name: "Alex Johnson",
+          name: "Vaibhav",
           title: "UX Designer",
           role: "Designer",
-          email: "alex.johnson@example.com",
+          email: "Vaibhav.Pahuja@gmail.com",
         },
         {
           _id: "65c3176a0fd860f958baa099",
-          name: "Emily Wilson",
+          name: "eshaan khurana",
           title: "Data Analyst",
           role: "Analyst",
-          email: "emily.wilson@example.com",
+          email: "eshaan.khurana@gmail.com",
         },
       ],
       isTrashed: false,
@@ -480,7 +480,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "Aman ghumra",
           title: "Administrator",
           role: "Admin",
           email: "admin@gmail.com",
@@ -494,10 +494,10 @@ export const summary = {
         },
         {
           _id: "65c30b96e639681a13def0b5",
-          name: "Jane Smith",
+          name: "jaikishan",
           title: "Product Manager",
           role: "Manager",
-          email: "jane.smith@example.com",
+          email: "xyz@gmail.com",
         },
       ],
       isTrashed: false,
@@ -532,7 +532,7 @@ export const summary = {
     },
     {
       _id: "65c3176a0fd860f958baa099",
-      name: "Emily Wilson",
+      name: "eshaan khurana",
       title: "Data Analyst",
       role: "Analyst",
       isActive: true,
@@ -540,7 +540,7 @@ export const summary = {
     },
     {
       _id: "65c317360fd860f958baa08e",
-      name: "Alex Johnson",
+      name: "Vaibhav",
       title: "UX Designer",
       role: "Designer",
       isActive: true,
@@ -548,7 +548,7 @@ export const summary = {
     },
     {
       _id: "65c30b96e639681a13def0b5",
-      name: "Jane Smith",
+      name: "jaikishan",
       title: "Product Manager",
       role: "Manager",
       isActive: true,
@@ -556,7 +556,7 @@ export const summary = {
     },
     {
       _id: "65c202d4aa62f32ffd1303cc",
-      name: "Codewave Asante",
+      name: "Aman ghumra",
       title: "Administrator",
       role: "Admin",
       createdAt: "2024-02-06T09:58:44.794Z",
@@ -603,21 +603,21 @@ export const tasks = [
     team: [
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
     ],
     isTrashed: false,
@@ -644,15 +644,15 @@ export const tasks = [
     team: [
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
       {
         _id: "65c3176a0fd860f958baa099",
-        name: "Emily Wilson",
+        name: "eshaan khurana",
         title: "Data Analyst",
-        email: "emily.wilson@example.com",
+        email: "eshaan.khurana@gmail.com",
       },
     ],
     isTrashed: false,
@@ -705,7 +705,7 @@ export const tasks = [
     team: [
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
@@ -717,9 +717,9 @@ export const tasks = [
       },
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
     ],
     isTrashed: false,
@@ -784,15 +784,15 @@ export const tasks = [
     team: [
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
       {
         _id: "65c3176a0fd860f958baa099",
-        name: "Emily Wilson",
+        name: "eshaan khurana",
         title: "Data Analyst",
-        email: "emily.wilson@example.com",
+        email: "eshaan.khurana@gmail.com",
       },
     ],
     isTrashed: false,
@@ -847,21 +847,21 @@ export const tasks = [
     team: [
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
     ],
     isTrashed: false,
@@ -896,7 +896,7 @@ export const tasks = [
     team: [
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
@@ -908,9 +908,9 @@ export const tasks = [
       },
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
     ],
     isTrashed: false,
@@ -943,15 +943,15 @@ export const tasks = [
     team: [
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
       {
         _id: "65c3176a0fd860f958baa099",
-        name: "Emily Wilson",
+        name: "eshaan khurana",
         title: "Data Analyst",
-        email: "emily.wilson@example.com",
+        email: "eshaan.khurana@gmail.com",
       },
     ],
     isTrashed: false,
@@ -978,7 +978,7 @@ export const tasks = [
     team: [
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
@@ -990,9 +990,9 @@ export const tasks = [
       },
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
     ],
     isTrashed: false,
@@ -1025,15 +1025,15 @@ export const tasks = [
     team: [
       {
         _id: "65c317360fd860f958baa08e",
-        name: "Alex Johnson",
+        name: "Vaibhav",
         title: "UX Designer",
-        email: "alex.johnson@example.com",
+        email: "Vaibhav.Pahuja@gmail.com",
       },
       {
         _id: "65c3176a0fd860f958baa099",
-        name: "Emily Wilson",
+        name: "eshaan khurana",
         title: "Data Analyst",
-        email: "emily.wilson@example.com",
+        email: "eshaan.khurana@gmail.com",
       },
     ],
     isTrashed: false,
@@ -1060,7 +1060,7 @@ export const tasks = [
     team: [
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "Aman ghumra",
         title: "Administrator",
         email: "admin@gmail.com",
       },
@@ -1072,9 +1072,9 @@ export const tasks = [
       },
       {
         _id: "65c30b96e639681a13def0b5",
-        name: "Jane Smith",
+        name: "jaikishan",
         title: "Product Manager",
-        email: "jane.smith@example.com",
+        email: "xyz@gmail.com",
       },
     ],
     isTrashed: false,
@@ -1132,7 +1132,7 @@ export const activitiesData = [
   {
     _id: "2",
     type: "assigned",
-    activity: "task to Codewave Asante",
+    activity: "task to Aman ghumra",
     date: new Date("2023-01-15").toISOString(),
     by: "Akwasi Asante",
   },
@@ -1148,14 +1148,14 @@ export const activitiesData = [
   {
     _id: "5",
     type: "bug",
-    activity: "bug to Codewave Asante",
+    activity: "bug to Aman ghumra",
     date: new Date("2023-01-15").toISOString(),
     by: "Akwasi Asante",
   },
   {
     _id: "4",
     type: "completed",
-    activity: "Codewave Asante has completed the task assigned",
+    activity: "Aman ghumra has completed the task assigned",
     date: new Date("2023-01-15").toISOString(),
     by: "Akwasi Asante",
   },

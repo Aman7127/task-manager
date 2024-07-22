@@ -12,7 +12,7 @@ import TaskTitle from "../components/TaskTitle";
 import BoardView from "../components/BoardView.jsx";
 import { tasks } from "../assets/data";
 import Table from "../components/task/Table";
-import AddTask from "../components/task/AddTask";
+
 
 const TABS = [
   { title: "Board View", icon: <MdGridView /> },
